@@ -3,9 +3,9 @@
 
 - The projects i have done are down below:
 
-*[Portfolio Website](https://saurabhmarsh.github.io/Portfolio/)
+[Portfolio Website](https://saurabhmarsh.github.io/Portfolio/)
 
-*[Number Plate Detection](https://saurabhmarsh.github.io/Number-Plate-Detection/) 
+[Number Plate Detection](https://saurabhmarsh.github.io/Number-Plate-Detection/) 
 
 - 📫 How to reach me **saurabhmarshettiwar@gmail.com**
 
