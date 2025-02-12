@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Saurabh Marshettiwar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
- The projects i have done are down below:
+Following are some projects:
 
 - [Portfolio Website](https://saurabhmarsh.github.io/Portfolio/)
 
 - [Number Plate Detection](https://saurabhmarsh.github.io/Number-Plate-Detection/) 
 
-- 📫 How to reach me **saurabhmarshettiwar@gmail.com**
+📫 How to reach me **saurabhmarshettiwar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zmnzPtykOBppOQNQHBOGnfnZyf1kCuNH/view](https://drive.google.com/file/d/1zmnzPtykOBppOQNQHBOGnfnZyf1kCuNH/view)
+📄 Know about my experiences [https://drive.google.com/file/d/1zmnzPtykOBppOQNQHBOGnfnZyf1kCuNH/view](https://drive.google.com/file/d/1zmnzPtykOBppOQNQHBOGnfnZyf1kCuNH/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
